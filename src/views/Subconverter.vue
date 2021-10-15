@@ -338,59 +338,59 @@ export default {
             label: "ACL4SSR",
             options: [
               {
-                label: "ACL4SSR默认",
+                label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online.ini?token=AOTBNEGIOJAK6GOY5RWKMV3BNG3UI"
               },
               {
-                label: "ACL4SSR去广告",
+                label: "ACL4SSR_Online_AdblockPlus 去广告(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini?token=AOTBNEAKBSJ5WOKHVA5GBRDBNG34E"
               },
               {
-                label: "ACL4SSR无自动测速",
+                label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_NoAuto.ini?token=AOTBNEBKCDKGQS4MNS4JBBTBNG4AC"
               },
               {
-                label: "ACL4SSR无广告拦截",
+                label: "ACL4SSR_Online_NoReject 无广告拦截(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_NoReject.ini?token=AOTBNEDHQF55ZPXKGBXXB7LBNG4CE"
               },
               {
-                label: "ACL4SSR精简版",
+                label: "ACL4SSR_Online_Mini 精简版(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Mini.ini?token=AOTBNECNOIQPTHPU2TWBHQTBNG4II"
               },
               {
-                label: "ACL4SSR精简去广告",
+                label: "ACL4SSR_Online_Mini_AdblockPlus.ini 精简版 去广告(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini?token=AOTBNEFCED6KOTVXNYKIXGTBNG4NU"
               },
               {
-                label: "ACL4SSR精简多重模式",
+                label: "ACL4SSR_Online_Mini_MultiMode.ini 精简版 自动测速、故障转移、负载均衡(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Mini_MultiMode.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini?token=AOTBNEBUOULQOL42XVVGD4TBNG5AM"
               },
               {
-                label: "ACL4SSR精简版带港美日国家",
+                label: "ACL4SSR_Online_Mini_MultiCountry.ini 精简版 带港美日国家(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini?token=AOTBNEHFP7VZCL7AZ4USIHTBNG5CW"
               },
               {
-                label: "ACL4SSR全分组",
+                label: "ACL4SSR_Online_Full 全分组 重度用户使用(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Full.ini?token=AOTBNEFAW5ABRLSD7REUCH3BNG5GG"
               },
               {
-                label: "ACL4SSR全分组多模式",
+                label: "ACL4SSR_Online_Full_MultiMode.ini 全分组 多模式 重度用户使用(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini?token=AOTBNEH3O7GSCIV6HQFEBGTBNG5IY"
               },
               {
-                label: "ACL4SSR全分组重度用户",
+                label: "ACL4SSR_Online_Full_Netflix 全分组 重度用户使用 奈飞全量(与Github同步)",
                 value:
-                  "https://cdn.staticaly.com/gh/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
+                  "https://raw.githubusercontent.com/3209342667/subweb-yuanx/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini?token=AOTBNEDNJUD4YUIWQ7ET3A3BNG5OK"
               }
             ]
           },
